@@ -70,4 +70,4 @@ Special thanks to Dr. Soumaya Chaffar for supervision and to the Artificial Inte
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT] - see the [LICENSE](LICENSE) file for details.
