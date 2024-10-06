@@ -51,7 +51,7 @@ This project aims to enhance the e-commerce search experience by:
 
 Check out our project demonstration video:
 
-[![SuitAI-Search-Engine Demo](path/to/your/image.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/RjCl8luc8N0))
+[![SuitAI-Search-Engine Demo](path/to/your/image.jpg)]([[N0](https://youtu.be/RjCl8luc8N0)]))
 
 ## Future Work
 
