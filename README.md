@@ -2,6 +2,14 @@
 
 SuitAI-Search-Engine is an innovative AI-powered search engine designed to revolutionize e-commerce by integrating advanced Natural Language Processing (NLP) and Computer Vision (CV) technologies.
 
+
+## Demo
+
+Check out our project demonstration video:
+
+[![Watch the video](https://img.youtube.com/vi/RjCl8luc8N0/maxresdefault.jpg)](https://www.youtube.com/watch?v=RjCl8luc8N0)
+
+
 ## Project Overview
 
 This project aims to enhance the e-commerce search experience by:
@@ -47,11 +55,7 @@ This project aims to enhance the e-commerce search experience by:
 
 (Add instructions on how to use the search engine)
 
-## Demo
 
-Check out our project demonstration video:
-
-[![SuitAI-Search-Engine Demo](path/to/your/image.jpg)]([[N0](https://youtu.be/RjCl8luc8N0)]))
 
 ## Future Work
 
