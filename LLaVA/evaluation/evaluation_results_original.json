@@ -1,0 +1,18 @@
+{
+    "BLEU": 0.021271200060740153,
+    "ROUGE-1": 0.2821668390878313,
+    "ROUGE-2": 0.049568582297748666,
+    "ROUGE-L": 0.2162602818932049,
+    "CIDEr": 0.050985446243631195,
+    "METEOR": 0.18239959667928832,
+    "BERTScore": 0.3219650983810425,
+    "Notes": {
+        "BLEU": "Range: 0 to 1. Higher is better. Measures the precision of n-grams in the predicted text.",
+        "ROUGE-1": "Range: 0 to 1. Higher is better. Measures the overlap of unigrams (single words) between the predicted and reference texts.",
+        "ROUGE-2": "Range: 0 to 1. Higher is better. Measures the overlap of bigrams (two-word sequences) between the predicted and reference texts.",
+        "ROUGE-L": "Range: 0 to 1. Higher is better. Measures the longest common subsequence (LCS) between the predicted and reference texts.",
+        "CIDEr": "Range: 0 to infinity. Higher is better. Measures the similarity of the predicted text to multiple reference texts using TF-IDF weighting.",
+        "METEOR": "Range: 0 to 1. Higher is better. Considers synonyms, stemming, and exact matches to evaluate the quality of the predicted text.",
+        "BERTScore": "Range: 0 to 1. Higher is better. Uses BERT embeddings to measure the semantic similarity between the predicted and reference texts."
+    }
+}
