@@ -47,18 +47,11 @@ This project aims to enhance the e-commerce search experience by:
 - `recommednation/`: Recommendation system implementation
 - `vectorDB/`: Vector database setup and queries
 
-## Installation and Setup
-
-(Add instructions for setting up and running the project)
-
-## Usage
-
-(Add instructions on how to use the search engine)
-
 
 
 ## Future Work
 
+- RAG-Based Search 
 - Implementation of 3D model visualization
 - Development of an advanced styling expert system
 - Integration of a chatting system for interactive shopping assistance
